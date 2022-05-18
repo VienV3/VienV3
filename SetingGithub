@@ -1,2 +1,5 @@
 git clone <link>
 //clone respon xuong may tinh
+
+//upload code to github
+git pull
