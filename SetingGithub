@@ -2,6 +2,6 @@ git clone <link>
 //clone respon xuong may tinh
 
 //upload code to github
+git commit -am "commit 18-05-2022"
 git push
 
-git commit -am "commit 18-05-2022"
